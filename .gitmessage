@@ -2,11 +2,11 @@
   
 ## Enter the description for your commit below ##
 
-
 ## Checklist for a commit - ensure all checked.
 
 # Does the code work as expected?
 # Does it follow all conventions ? Does it pass the Lint rules?
+# Are all unit tests passing?
 # Is it readable and easily understandable? Are the function and variable names meaningful?
 # Is there any redundant or duplicate code?
 # Is the code modular and reusable?
